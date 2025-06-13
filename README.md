@@ -1,6 +1,6 @@
-一个js脚本用于自动下载图像和它的信息。
+一个js脚本用于自动下载图像和它的信息。大致是图中的全部，和这个图像的网址。
 我上传到了 https://greasyfork.org/zh-CN/scripts/539298-civitai-image-downloader-and-metadata-extractor
-大致是图中的全部
+
 
 ![image](https://github.com/user-attachments/assets/4e40b6f3-ad2c-427c-b759-90a220ad72cc)
 
